@@ -3,7 +3,7 @@ Regresión Lineal Univariada
 -----------------------------------------------------------------------------------------
 
 
-En este laboratorio se construirá un modelo de regresión lineal univariado.
+En este laboratio se construirá un modelo de regresión lineal univariado.
 
 
 """
